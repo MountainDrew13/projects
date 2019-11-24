@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome, enjoy your visit!
 
 You can use the [editor on GitHub](https://github.com/MountainDrew13/projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
